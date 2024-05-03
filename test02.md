@@ -9,6 +9,12 @@ blablabla
 - test liste
 - test liste
 
+<information>test</information>
+<success>test</success>
+<danger>test</danger>
+<help>test</help>
+
+
 <aside>
 🔴 test 02 danger
 
