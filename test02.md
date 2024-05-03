@@ -9,6 +9,9 @@ blablabla
 - test liste
 - test liste
 
+**test bold**
+*test italique*
+
 <information>test</information>
 <success>test</success>
 <danger>test</danger>
@@ -47,4 +50,4 @@ blablabla
 blablabla <div class="test"></div> [b]test[/b]
 ```
 
-![https://64.media.tumblr.com/0a16de5c81e97a48e9a065793432c1a6/d73299a045e5c9f8-67/s400x600/966af20a35844d644003682abe057c89cd3dd1ce.jpg](https://64.media.tumblr.com/0a16de5c81e97a48e9a065793432c1a6/d73299a045e5c9f8-67/s400x600/966af20a35844d644003682abe057c89cd3dd1ce.jpg)
+== https://64.media.tumblr.com/0a16de5c81e97a48e9a065793432c1a6/d73299a045e5c9f8-67/s400x600/966af20a35844d644003682abe057c89cd3dd1ce.jpg
