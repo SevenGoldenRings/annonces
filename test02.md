@@ -9,6 +9,8 @@ Haec et huius modi quaedam innumerabilia ultrix facinorum impiorum bonorumque pr
 - test liste
 - test liste
 
+  ### titre h3 au besoin
+
 **test bold**
 *test italique*
 
@@ -17,13 +19,37 @@ Haec et huius modi quaedam innumerabilia ultrix facinorum impiorum bonorumque pr
 <danger>test</danger>
 <help>test</help>
 
+<information>test</information>
+<success>test</success>
+<danger>test</danger>
+<help>test</help>
+
 <information>
   ### titre au besoin
+  ## texte h2
   test
 </information>
 
+<success>
+  ### titre au besoin
+  ## texte h2
+  test
+</success>
+
+<danger>
+  ### titre au besoin
+  ## texte h2
+  test
+</danger>
+
+<help>
+  ### titre au besoin
+  ## texte h2
+  test
+</help>
 
 <aside>
+  ## h2
 🔴 test 02 danger
 
 </aside>
