@@ -25,9 +25,10 @@ Haec et huius modi quaedam innumerabilia ultrix facinorum impiorum bonorumque pr
 <help>test</help>
 
 <information>
-  ### titre au besoin
-  ## texte h2
-  Haec et huius modi quaedam innumerabilia ultrix facinorum impiorum bonorumque praemiatrix aliquotiens operatur Adrastia atque *utinam semper quam vocabulo duplici etiam* Nemesim appellamus: ius quoddam sublime numinis efficacis, humanarum mentium opinione **lunari circulo superpositum**, vel ut definiunt alii, substantialis tutela generali potentia partilibus praesidens fatis, quam theologi __veteres fingentes Iustitiae__ filiam ex abdita quadam aeternitate tradunt omnia despectare terrena
+  <content>
+    ## test h2
+    Haec et huius modi quaedam innumerabilia ultrix facinorum impiorum bonorumque praemiatrix aliquotiens operatur Adrastia atque *utinam semper quam vocabulo duplici etiam* Nemesim appellamus: ius quoddam sublime numinis efficacis, humanarum mentium opinione **lunari circulo superpositum**, vel ut definiunt alii, substantialis tutela generali potentia partilibus praesidens fatis, quam theologi __veteres fingentes Iustitiae__ filiam ex abdita quadam aeternitate tradunt omnia despectare terrena
+  </conten>
 </information>
 
 <success>
